@@ -3,16 +3,6 @@
 A repository contains all of your project's files, revision history, and collaborator discussion.
 
 J040C4MP05 /
-￼
-￼
-Public
-Anyone on the internet can see this repository
-
-￼
-Private
-You choose who can see and commit to this repository
-
-￼Create a new repository
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
