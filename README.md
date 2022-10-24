@@ -5,6 +5,5 @@ J040C4MP05 /
 - 🌱 Eu estou aprendendo a programar com o Alura.
 
 !---
-J040C4MP05/J040C4MP05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+@J040C4MP05
 --->
